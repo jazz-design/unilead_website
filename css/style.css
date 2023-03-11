@@ -1,6 +1,6 @@
-/********** Template CSS **********/
+	/********** Template CSS **********/
 :root {
-    --primary: #B78D65;
+    --primary: #d22a5b;
     --light: #F8F8F8;
     --dark: #252525;
 }
@@ -35,6 +35,17 @@ h6,
     right: 30px;
     bottom: 30px;
     z-index: 99;
+}
+/*** TOP ***/
+.top_bg
+{
+background-color: #3e2c6a;
+
+}
+.top_text
+{
+color: #fec12c;
+
 }
 
 
@@ -90,8 +101,8 @@ h6,
 }
 
 .btn-outline-body {
-    color: var(--primary);
-    border-color: #777777;
+    color: #fff;
+    
 }
 
 .btn-outline-body:hover {
