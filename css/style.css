@@ -519,6 +519,13 @@ color: #fec12c;
 
 
 /*** Footer ***/
+.footer_bg{
+background-color: #171530;	
+	
+	
+	
+}
+
 .footer .btn.btn-link {
     display: block;
     margin-bottom: 5px;
