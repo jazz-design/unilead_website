@@ -1,6 +1,6 @@
 	/********** Template CSS **********/
 :root {
-    --primary: #e02159;
+    --primary: #cb184c;
     --light: #F8F8F8;
     --dark: #252525;
 }
@@ -101,12 +101,12 @@ color: #fec12c;
 }
 
 .btn-outline-body {
-    color: #fff;
+    color: #fec12c;
     
 }
 
 .btn-outline-body:hover {
-    color: #FFFFFF;
+    color: #fff;
     background: var(--primary);
     border-color: var(--primary);
 }
