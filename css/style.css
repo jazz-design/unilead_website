@@ -73,6 +73,7 @@ color: #fec12c;
 .btn.btn-primary,
 .btn.btn-secondary {
     color: #FFFFFF;
+	border-radius:50px;
 }
 
 .btn-square {
@@ -98,6 +99,7 @@ color: #fec12c;
     align-items: center;
     justify-content: center;
     font-weight: normal;
+	border-radius: 50px;
 }
 
 .btn-outline-body {
@@ -359,6 +361,7 @@ color: #fec12c;
     white-space: nowrap;
     overflow: hidden;
     transition: .5s;
+	border-radius: 50px;
 }
 
 .service-item:hover .btn {
