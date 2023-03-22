@@ -113,6 +113,13 @@ color: #fec12c;
     border-color: var(--primary);
 }
 
+.bg_contact{
+background-color:#cb184c;
+color:#fff;
+font-size: 22px;
+border-radius: 50px;
+
+}
 
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
