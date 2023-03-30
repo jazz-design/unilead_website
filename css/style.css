@@ -285,7 +285,7 @@ border-radius: 50px;
 }
 
 .fact-item:hover .fact-icon {
-    background: var(--dark);
+    background: var(--light);
 }
 
 .fact-item .fact-icon i {
