@@ -403,9 +403,12 @@ border-radius: 50px;
 
 /*** Project ***/
 .project .nav .nav-link {
-    background: var(--light);
+    background: #3e2c6a;
     transition: .5s;
+	color: #FFFFFF !important;
 }
+
+
 
 .project .nav .nav-link.active {
     background: var(--primary);
