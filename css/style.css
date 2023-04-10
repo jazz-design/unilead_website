@@ -256,6 +256,31 @@ border-radius: 50px;
     background-size: cover;
 }
 
+.page-pro {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/prd1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.page-ser {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/ser1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.page-partner{
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/pra1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.page-contact{
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/con1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.page-download{
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../img/dwn1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
 .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
