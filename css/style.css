@@ -113,6 +113,14 @@ color: #fec12c;
     border-color: var(--primary);
 }
 
+.border-lt
+{
+border-left: solid;
+border-width: 5px;
+border-color: #fff;
+	
+}
+
 .bg_contact{
 background-color:#cb184c;
 color:#fff;
